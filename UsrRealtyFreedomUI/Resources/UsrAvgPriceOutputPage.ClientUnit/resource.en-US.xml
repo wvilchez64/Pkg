@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Average realty price output page" />
+			<Item Name="LocalizableStrings.Input_vhxhoxi_label.Value" Value="Sql Command" />
+			<Item Name="Parameters.e21b456e-81ae-eb0a-c44e-cf77ea402982.Caption" Value="Average price, USD/sq ft" />
+			<Item Name="Parameters.e55e4b43-ce50-c290-6071-d4bbb75d8fc9.Caption" Value="SQL text" />
+		</Items>
+	</Group>
+</Resources>

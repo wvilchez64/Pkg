@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Realty Classic Migration form page" />
+			<Item Name="LocalizableStrings.addRecord_61cqnpi_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_xeeqcg3_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.Button_19pt8iw_caption.Value" Value="Button" />
+			<Item Name="LocalizableStrings.Button_6svlub6_caption.Value" Value="Button" />
+			<Item Name="LocalizableStrings.Button_glz64mt_caption.Value" Value="PUSH!" />
+		</Items>
+	</Group>
+</Resources>

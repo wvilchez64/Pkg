@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "97b28521-1707-480e-9c85-29e52e92c61c",
+    "Name": "UsrSaveGoldRateSUBProcess",
+    "ModifiedOnUtc": "\/Date(1701858509000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Save Gold Rate Sub Process",
+    "DependsOn": []
+  }
+}

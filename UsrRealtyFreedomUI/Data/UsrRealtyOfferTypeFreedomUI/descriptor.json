@@ -1,0 +1,42 @@
+﻿{
+  "Descriptor": {
+    "UId": "ac4c211e-bf62-5589-80cd-cdeea22f5288",
+    "Name": "UsrRealtyOfferTypeFreedomUI",
+    "ModifiedOnUtc": "\/Date(1700416338000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "d58e39fc-dd97-410d-9220-ba12bf2141e0",
+      "Name": "UsrRealtyOfferTypeFreedomUI"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "ea678dcd-815c-be1a-b0f0-286f678724d0",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "UsrCommisionPercent",
+        "DataTypeValueUId": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+      },
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": false,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Description",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Name",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      }
+    ]
+  }
+}

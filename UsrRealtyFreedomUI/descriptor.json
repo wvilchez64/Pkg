@@ -1,0 +1,29 @@
+﻿{
+  "Descriptor": {
+    "UId": "fad5a78b-9cf8-4409-8b06-aa1f92ef3511",
+    "Name": "UsrRealtyFreedomUI",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1632313759000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/UsrRealtyFreedomUI.csproj",
+    "DependsOn": [
+      {
+        "UId": "012e2e14-082b-ac2b-da5a-2fc87bad41d4",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCore",
+        "Type": 1
+      },
+      {
+        "UId": "2ecba2bd-b810-47a5-a1b1-08c888529d6c",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCustomer360App",
+        "Type": 1
+      },
+      {
+        "UId": "5acc3d2c-cb76-4d57-cbb3-d5fdbf97f1a6",
+        "Name": "DevClassic",
+        "Type": 1
+      }
+    ]
+  }
+}

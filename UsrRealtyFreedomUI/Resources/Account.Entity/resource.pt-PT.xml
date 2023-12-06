@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pt-PT">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Conta" />
+			<Item Name="Columns.AccountCategory.Caption" Value="Categoria" />
+			<Item Name="Columns.AccountLogo.Caption" Value="Logótipo da Conta" />
+			<Item Name="Columns.AdditionalPhone.Caption" Value="Telefone Alternativo" />
+			<Item Name="Columns.Address.Caption" Value="Endereço" />
+			<Item Name="Columns.AddressType.Caption" Value="Tipo de endereço" />
+			<Item Name="Columns.AlternativeName.Caption" Value="Nome alternativo" />
+			<Item Name="Columns.AnnualRevenue.Caption" Value="Receita anual" />
+			<Item Name="Columns.AUM.Caption" Value="AUM" />
+			<Item Name="Columns.City.Caption" Value="Cidade" />
+			<Item Name="Columns.Code.Caption" Value="Código" />
+			<Item Name="Columns.Completeness.Caption" Value="Conformidade de Entrada de Dados" />
+			<Item Name="Columns.Country.Caption" Value="País" />
+			<Item Name="Columns.CreatedBy.Caption" Value="Criado por" />
+			<Item Name="Columns.CreatedOn.Caption" Value="Criado em" />
+			<Item Name="Columns.EmployeesNumber.Caption" Value="No. de empregados" />
+			<Item Name="Columns.Fax.Caption" Value="Fax" />
+			<Item Name="Columns.GPSE.Caption" Value="GPS E" />
+			<Item Name="Columns.GPSN.Caption" Value="GPS N" />
+			<Item Name="Columns.Id.Caption" Value="Identidade" />
+			<Item Name="Columns.Industry.Caption" Value="Setor" />
+			<Item Name="Columns.Logo.Caption" Value="Logo" />
+			<Item Name="Columns.ModifiedBy.Caption" Value="Modificado por" />
+			<Item Name="Columns.ModifiedOn.Caption" Value="Modificado em" />
+			<Item Name="Columns.Name.Caption" Value="Nome" />
+			<Item Name="Columns.Notes.Caption" Value="Notas" />
+			<Item Name="Columns.Owner.Caption" Value="Responsável" />
+			<Item Name="Columns.Ownership.Caption" Value="Unidade de negócio" />
+			<Item Name="Columns.Parent.Caption" Value="Conta Mãe" />
+			<Item Name="Columns.Phone.Caption" Value="Telefone principal" />
+			<Item Name="Columns.PrimaryContact.Caption" Value="Contacto primário" />
+			<Item Name="Columns.ProcessListeners.Caption" Value="Active processes" />
+			<Item Name="Columns.Region.Caption" Value="Estado" />
+			<Item Name="Columns.Type.Caption" Value="Tipo" />
+			<Item Name="Columns.Web.Caption" Value="Web" />
+			<Item Name="Columns.Zip.Caption" Value="CEP/código postal" />
+		</Items>
+	</Group>
+</Resources>
